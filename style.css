@@ -1,0 +1,42 @@
+#title{
+    width: 1000px;
+    margin-top: 20px;
+    height: 400px;
+    margin-left: 100px;
+}
+#Chef{
+    width: 250px; 
+    height: 350px;
+
+}
+
+.photo{
+    width: 450px; 
+    height: 350px;
+}
+
+.readfont{
+    font-size: 30px;
+}
+
+#abought{
+    margin-left: 850px;margin-top:100px;
+}
+
+#missionfont{
+    font-size: 25px;
+}
+
+ul{
+    border:darkgoldenrod 5px outset;
+    width: 20%;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    list-style: none;
+}
+
+ul li{
+    border: outset;
+    display: inline-block;
+}
