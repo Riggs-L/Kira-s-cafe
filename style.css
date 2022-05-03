@@ -40,3 +40,15 @@ ul li{
     border: outset;
     display: inline-block;
 }
+
+.photoR{
+    width: 450px; 
+    height: 350px;
+    margin-right: 1000px;
+    float: right;
+    position:relative;
+}
+
+.menuL{
+    margin-right: 1550px
+}
