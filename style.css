@@ -5,9 +5,9 @@
     margin-left: 100px;
 }
 #Chef{
-    width: 250px; 
-    height: 350px;
-
+    width: 500px; 
+    height: 700px;
+    display: block; float: left;
 }
 
 .photo{
@@ -24,7 +24,7 @@
 }
 
 #missionfont{
-    font-size: 25px;
+    font-size: 30px;
 }
 
 ul{
@@ -51,4 +51,17 @@ ul li{
 
 .menuL{
     margin-right: 1550px
+}
+
+#signalign{
+    display: block; float: left;
+}
+
+.KM{
+    font-size: 100px;
+}
+
+#Out{
+    width: 600px; 
+    height: 450px;
 }
